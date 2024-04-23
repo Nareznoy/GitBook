@@ -12,10 +12,10 @@ First Paragraph
 
 * [ ] Task 1
 * [ ] Task 2
-* [ ] Task 3
+* [x] Task 3
   * [ ] asdsadsa
-  * [ ] asdsad
-    * [ ] asdsad
+  * [x] asdsad
+    * [x] asdsad
     * [ ] asd
     * [ ] asd
   * [ ] asdas
